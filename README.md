@@ -2,6 +2,9 @@
 
 A simple web application that generates random inspirational quotes and life advice.
 
+## Screenshot
+   ![App Preview](./img/screenshot.png)
+   
 ## 🚀 Features
 
 - Generate random quotes with a single click
@@ -15,9 +18,6 @@ A simple web application that generates random inspirational quotes and life adv
 - CSS3
 - JavaScript (ES6 Modules)
 - Advice Slip API
-
-## Screenshot
-   ![App Preview](./img/screenshot.png)
 
 ## Installation
 
