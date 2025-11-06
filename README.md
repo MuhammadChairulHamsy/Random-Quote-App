@@ -1,8 +1,8 @@
-# Random Quotes App
+# 🌤️ Random Quote Generator
 
 A simple web application that generates random inspirational quotes and life advice.
 
-## Features
+## 🚀 Features
 
 - Generate random quotes with a single click
 - Clean and professional UI design
@@ -37,7 +37,7 @@ cd random-quotes-app
 
 Simply click the "Generate Advice" button to get a new random quote. The app will fetch fresh content from the API each time.
 
-## Project Structure
+## 🗂  Project Structure
 
 ```
 random-quotes-app/
