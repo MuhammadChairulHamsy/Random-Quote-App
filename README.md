@@ -17,7 +17,7 @@ A simple web application that generates random inspirational quotes and life adv
 - Advice Slip API
 
 ## Screenshot
-   ![App Preview](./screenshot.png)
+   ![App Preview](./img/screenshot.png)
 
 ## Installation
 
