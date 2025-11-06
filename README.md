@@ -169,7 +169,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Muhammad Chairul Hamsy**
 
 - GitHub: [@MuhammadChairulHamsy](https://github.com/Muhammad)
-- Project Link: [https://github.com/MuhammadChairulHamsy/random-quotes-app](https://github.com/MuhammadChairulHamsy/Random-Quote-App)
+- Project Link: [https://github.com/MuhammadChairulHamsy/Random-Quote-App](https://github.com/MuhammadChairulHamsy/Random-Quote-App)
 
 ## 🙏 Acknowledgments
 
