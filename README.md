@@ -1,31 +1,61 @@
-# 🌤️ Random Quote Generator
+# Random Quotes App
 
-A simple and elegant **Random Quote Generator** built using **HTML, CSS, and JavaScript (ES Modules)**.  
-This app fetches inspirational quotes from the [Quotable API](https://api.quotable.io) using **async/await**, and displays them dynamically with smooth UI updates.
+A simple web application that generates random inspirational quotes and life advice.
 
----
+## Features
 
-## 🚀 Features
+- Generate random quotes with a single click
+- Clean and professional UI design
+- Responsive layout for mobile and desktop
+- Smooth animations and transitions
 
-- 🔄 Fetches new quotes in real-time using `async/await`
-- 💬 Displays quote text and author dynamically
-- 🌈 Clean, responsive, and minimalistic UI
-- 🕶️ Handles API errors gracefully
-- ⚡ Well-structured with **modular JavaScript** (`api.js`, `ui.js`, `main.js`)
+## Technologies Used
 
----
+- HTML5
+- CSS3
+- JavaScript (ES6 Modules)
+- Advice Slip API
 
-## 🧠 Tech Stack
+## Screenshot
+   ![App Preview](./screenshot.png)
 
-- HTML
-- CSS3 (Flexbox, Gradient Backgrounds)
-- Vanilla JavaScript (ES6 Modules, Fetch API, Async/Await)
+## Installation
 
----
+1. Clone this repository
+```bash
+git clone https://github.com/MuhammadChairulHamsy/Random-Quote-App
+```
 
-## ⚙️ How to Run
+2. Navigate to the project directory
+```bash
+cd random-quotes-app
+```
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MuhammadChairulHamsy/Random-Quote-App
-   ```
+3. Open `index.html` in your browser
+
+## Usage
+
+Simply click the "Generate Advice" button to get a new random quote. The app will fetch fresh content from the API each time.
+
+## Project Structure
+
+```
+random-quotes-app/
+├── index.html
+├── style/
+│   └── styles.css
+├── js/
+│   ├── main.js
+│   ├── api.js
+│   └── ui.js
+└── README.md
+```
+
+## API
+
+This project uses the [Advice Slip API](https://api.adviceslip.com/) to fetch random quotes and advice.
+
+## License
+
+This project is open source and available under the MIT License.
+
