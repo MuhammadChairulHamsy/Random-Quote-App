@@ -15,20 +15,6 @@ This app fetches inspirational quotes from the [Quotable API](https://api.quotab
 
 ---
 
-## 🗂 Folder Structure
-
-random-quote-app/
-│
-├── index.html # Main HTML page
-├── style/
-|---styles.css # App styling
-└── js/
-├── api.js # Handles API requests
-├── ui.js # Manages DOM updates
-└── main.js # App logic and event handling
-
----
-
 ## 🧠 Tech Stack
 
 - HTML
